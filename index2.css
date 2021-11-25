@@ -1,0 +1,84 @@
+@font-face{
+    font-family: vazir;
+    src: url("../font/vazir/vazir-font-v16.1.0/Vazir.ttf");
+}
+*{
+    font-family: vazir;
+}
+body{
+    margin: 0px;
+}
+header{
+    height: 100px;
+    width: 1349px;
+    background-color: #0b0b0b;
+}
+.logo{
+    height: 80px;
+    width: 72px;
+}
+.nav-link{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.decoration-write{
+    color: orange;
+}
+.header-design:hover{
+    background: grey;
+
+}
+main{
+    height: 800px;
+    background-color: #0b0b0b;
+}
+.line{
+    height: 1px;
+    background-color: grey;
+    width: 1349px;
+}
+footer{
+    height: 465px;
+    background-color: black;
+}
+.line-2{
+    height: 4px;
+    background-color: orange;
+    width:90px ;
+}
+.text{
+    color: white;
+}
+.effect:hover{
+    background-color: orange;
+}
+.title-featured{
+    color: white;
+    margin-left: 40px;
+}
+.line-3{
+    color: orange;
+    height: 4px;
+    width: 100px;
+
+}
+.writes-products{
+    color: white;
+    margin-left: 40px;
+}
+.image-budget1{
+    border-radius: 10px;
+    height: 400px;
+    width: 390px;
+    margin-left: 40px;
+}
+.two{
+    display: flex;
+}
+.image-budget2{
+    border-radius: 10px;
+    height: 400px;
+    width: 390px;
+    margin-left: 40px;
+}
